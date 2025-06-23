@@ -6,6 +6,6 @@ Foi-nos proposta a captura de dados de um *website* à escolha, através de um *
 Como tema de análise, foram escolhidos os resultados de vários torneios de *Esports* (competições de jogos eletrónicos), disponíveis através do site https://www.gosugamers.net/ .
 
 
-## Informações Adicionais:
-### - Data da realização do trabalho: dez- janeiro 2025
-### - Nota Obtida: 19/20
+### Informações Adicionais:
+- **Data da realização do projeto:** dez- janeiro 2025
+- **Nota Obtida:** 19/20
